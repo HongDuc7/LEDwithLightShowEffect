@@ -20,4 +20,4 @@ The system employs **PWM** (at 800kHz) and **DMA** to efficiently transfer the R
 ## 🔗 Demo Videos & Source Code
 | Description | Link (Google Drive) |
 | :--- | :--- |
-| **Video Demo (ADC VOLUME BAR)** | [Link to Video](https://drive.google.com/file/d/1QAKViqb9M6Uc4JUQKatFcqW9umvOfph/view) |
+| **Video Demo (ADC VOLUME BAR)** | [Updating] |
